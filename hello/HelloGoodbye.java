@@ -3,6 +3,7 @@
  *  Coursera User ID:  123456
  *  Last modified:     October 16, 1842
  **************************************************************************** */
+// package hello;
 
 public class HelloGoodbye {
     public static void main(String[] args) {

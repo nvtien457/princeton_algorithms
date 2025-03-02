@@ -4,10 +4,12 @@
  *  Last modified:     October 16, 1842
  **************************************************************************** */
 
+// package hello;
+
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdRandom;
 
-public class RandomWorld {
+public class RandomWord {
     public static void main(String[] args) {
         /*
          * Reads a sequence of words from standard input and prints one of those words uniformly at random.
